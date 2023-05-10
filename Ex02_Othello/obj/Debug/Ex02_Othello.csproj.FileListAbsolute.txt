@@ -1,0 +1,7 @@
+C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\bin\Debug\Ex02_Othello.exe.config
+C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\bin\Debug\Ex02_Othello.exe
+C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\bin\Debug\Ex02_Othello.pdb
+C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.csproj.AssemblyReference.cache
+C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.csproj.CoreCompileInputs.cache
+C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.exe
+C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex02_Othello\obj\Debug\Ex02_Othello.pdb

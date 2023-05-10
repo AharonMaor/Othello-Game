@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\maorr\Desktop\HIT\שנה ג\סימסטר א\מונחה עצמים C#\Ex05\A23 Ex05 MaorAharon 208253625 OrJerbi 318851177\Ex05.UI\Ex05.UI.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ex02_Othello\Ex02_Othello.csproj" />
+  </ItemGroup>
+
+</Project>
